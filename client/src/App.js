@@ -5,7 +5,7 @@ import { Provider } from "react-redux";
 import Menu from "./components/menu";
 import Paths from "./paths";
 import store from "./store";
-import "./app.scss";
+import "./App.scss";
 
 function App() {
   return (
